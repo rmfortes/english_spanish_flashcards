@@ -19,4 +19,4 @@ This is a self-scoring flashcard game built using Python, SQL, and Peewee, to be
 
 # Contribution Guidelines
 
-Should you identify any bugs or have any ideas that may improve this game, kindly submit a pull request on this project's GitHub repo.
+Should you identify any bugs or have any ideas that may improve this game, kindly submit an issue on this project's GitHub repo.
